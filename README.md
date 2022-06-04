@@ -1,1 +1,3 @@
-# Atividade-Pr-tica-Estruturas-de-Repeti-o
+# Atividade Pratica Estruturas de Repetição
+
+Repositório referente as atividades do modulo logica de programação do Projeto START(LATAM)
